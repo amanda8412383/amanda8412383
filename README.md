@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello my plausible future interviewer 👋
 
+I am Amanda, a second-year economics graduate student at university Bonn who wanting to work professionally in the field of data analysis after graduation. Currently looking for a cooperation opportunity for my master thesis for the summer semester 2021.
+
+Welcome to contact me through Linkedin if you are looking for workers with fresh livers. 
 <!--
 **amanda8412383/amanda8412383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
