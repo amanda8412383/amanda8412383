@@ -1,6 +1,6 @@
 ### Hello my plausible future interviewer 👋
 
-I am Amanda, a fresh economics graduate from university Bonn who is eager to work in the field of data analysis.
+I am Amanda, an analyst who is fond of data analysis and data science.
 
 Welcome to contact me if you are looking for workers with dedication and fresh livers. 
 <!--
